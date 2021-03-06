@@ -1,7 +1,7 @@
 ## 리드미 마크다운
 
 
-<details>
+
 <summary>샾 </summary>
 <div markdown="1">  
   
@@ -11,5 +11,5 @@
 " #쓸내용 "
 
 </div>
-</details>
+
 
